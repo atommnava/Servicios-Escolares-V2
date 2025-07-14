@@ -5,3 +5,6 @@ wtforms
 email_validator
 flask-bcrypt
 flask_login
+flask-mysqldb
+passlib
+functools
