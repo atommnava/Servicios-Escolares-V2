@@ -7,4 +7,3 @@ flask-bcrypt
 flask_login
 flask-mysqldb
 passlib
-functools
