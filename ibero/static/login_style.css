@@ -13,11 +13,13 @@ body {
     align-items: center;
     min-height: 100vh;
     background: url('ibero_1.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .wrapper {
     width: 420px;
-    background: purple;
+    background: transparent;
     color: #fff;
     border-radius: 25px;
     padding: 30px 40px;
